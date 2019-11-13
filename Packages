@@ -7,7 +7,7 @@ Author: israelryn
 Maintainer: israelryn
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.israelryn.poorlydrawn
-Depiction: https://israel-ryn.github.io/repo/depictions/poorlydrawn
+Filename: ./debs/com.israelryn.poorlydrawn.deb
+Depiction: https://israel-ryn.github.io/repo/depictions/?p=poorlydrawn
 Size: 824178
 MD5sum: 7702d96bbb2f522f8db4a3b81ca30ddd
